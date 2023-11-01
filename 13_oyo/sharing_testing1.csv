@@ -1,0 +1,48 @@
+source;id;name;latitude;longitude;distance;categories;subcategories;oyo_id;address;hotel_type
+point_of_interests;431524247;Halasuru;12.976492;77.626705;4.255840334611008;['Transportation'];;;;
+point_of_interests;google_record_ChIJvXK4LX4WrjsRGEIvIjdG62w;Ashok Nagar;12.9708865;77.60719870000003;4.335570053649251;['Shopping'];;;;
+point_of_interests;850782880;Indiranagar;12.978308;77.638659;4.567055257477382;['Transportation'];;;;
+point_of_interests;google_record_ChIJCZnMcF4WrjsRLdxIvmt4MOY;Bangalore Cantonment Railway Station;12.9921816;77.60242160000007;6.6557322733742375;['Transportation'];;;;
+point_of_interests;oyo-locality-17305088;Majestic City Railway Station;12.978203;77.569774;7.816809052014838;['Transportation'];;;;
+point_of_interests;google_record_ChIJCYgAwiwVrjsRWk69HWg1HG8;Royal Meenakshi Mall;12.8759179;77.59570600000006;7.826264936099909;['Shopping'];;;;
+point_of_interests;253514986;Bellandur Road;12.937318;77.707302;8.469440257896055;['Transportation'];;;;
+point_of_interests;google_record_ChIJs8YK7z0RrjsR_VPBT7GAeh8;KR Puram Railway Station;13.000141;77.67561699999999;8.522925270690218;['Transportation'];;;;
+point_of_interests;1820408689;Magadi Road;12.975602;77.555352;9.00974418629271;['Transportation'];;;;
+hotels;9997;OYO Townhouse 006 Koramangala Sony Signal;12.938293;77.629157;;Townhouse;;BLR447;Next to Lifestyle, 8th Block, Inner Ring Road, Koramangala, Bangalore;Hotel
+hotels;9998;OYO 5967 Dev Palace;26.459461;74.633995;;OYO Rooms;;AJM027;Opposite Central Churi Bazar, Ajmer;Hotel
+point_of_interests;gr_ChIJufvBP8u89jkRErwHfkctoNc;Chaska Chilli;23.7891688;86.4199969;0.7723796706639467;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJHbasqxWj9jkRd6Yjl0D--fs;Kusunda Junction;23.7899453;86.3960554;1.678071866932568;['Transportation'];['transport_rail'];;;
+point_of_interests;google_record_ChIJJQBlRri89jkRYpon82JP9Mo;Mukunda;23.7956531;86.43038589999992;1.9961750431728007;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJn6JDvmij9jkRAIcjyd7fbNs;Bhuli Police Station Bus Stop;23.8034052;86.3945746;2.471408585285914;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJW37w5qS89jkRZzdAjcg8yk4;Dhanbad Dhanbad Bus Stand;23.80721;86.431828;2.876807841116892;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJ0di3KL689jkRYqu9_i2bh7U;Red Chilli Restaurant;23.7987675;86.44088529999999;3.115201954089056;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJrWPZD1y79jkR8UzmOYZ-Gk8;Rang De Basanti Restaurant;23.824091;86.434343;4.554166438140851;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJWZoXAFOi9jkRpLZjMSt2OPk;Karkend;23.7653;86.3706;4.971707232670287;['Transportation'];['transport_rail'];;;
+point_of_interests;245716474;Dhanbad Airfield;23.834285;86.427831;5.340446236526374;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJLymNkEu99jkRUzoXynAA7Ik;Jharia Rrailway Station;23.74086;86.4218599;5.368078901454031;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJE1VVVXm89jkR6OYjheB5Czc;Hongkong Restaurant;23.812177;86.46426699999999;5.898832413195313;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJoeUxHXi89jkRCQpYP78ROEA;Nilanchal Colony;23.8211025;86.46980250000001;6.876718800309544;[];[];;;
+point_of_interests;gr_ChIJX6eBEaei9jkRTiVJoXL5wRw;Bhaga;23.72397269999999;86.4057979;7.191889252394585;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJ9T2YvPij9jkR-og2At2Nbx0;Tetulmari;23.8146206;86.3432332;7.623920398533694;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJx5cQ_g-Y9jkR1NEtRahcytE;New TATA Halipad;23.7097473;86.4078425;8.754291176520953;['Transportation'];['transport_air'];;;
+hotels;9999;OYO The Silver International;23.788363;86.412457;;OYO Rooms;;DNB001;3, Katras Road, Near Vodafone Store, Matkuria, Dhanbad;Hotel
+hotels;10000;OYO 5969 near ISM;23.811372;86.433231;;OYO Rooms;;DNB002;Bartand, Dhanbad;Hotel
+point_of_interests;gr_ChIJj9yJZ_D-YzkRycY6DNKI1QM;Babus Water Park;23.3535692;75.0234682;0.22470671181493213;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJbZ9NF5j-YzkRkZyr1qDEHVo;Sailana Bus Station;23.33257709999999;75.0366426;2.631076016146413;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJ3cwxJbv-YzkRxpfTE9N-B-4;Food Delivery in Train from Hotel Sagar;23.3350705;75.04610199999999;2.96402569113004;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJp2qJzg__YzkROCszC_PCaS8;Ratlam Airstrip;23.3811019;75.025519;3.0171748057115657;['Transportation'];['transport_air'];;;
+point_of_interests;3902936281;Dhosawas;23.370889;75.049141;3.049912182413459;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJTZ8zfJz-YzkR-tcyCWCvO8w;Tip Top Chinese Fast Food Centre;23.326394;75.029183;3.087528788679532;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJof16ikz_YzkRIb1vd-IeL5U;राहत अली गद्दी;23.3395678;75.05547;3.4419333538177863;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJ48tFi6n-YzkRwfEhdK8prRY;DRP line Helipad;23.3250233;75.0549728;4.397274509624415;['Transportation'];['transport_air'];;;
+point_of_interests;1262732;Morwani;23.27667;74.97935;9.808508000142437;['Transportation'];['transport_rail'];;;
+hotels;10001;Capital O Hotel Balaji Central;23.353968;75.025626;;Capital O;;RTL001;Sailana Road, Opposite Gtb Academy, Ratlam;Hotel
+point_of_interests;gr_ChIJ5zIfQ5aViDARJHcm66tvvwA;Milky Way;11.6732954;92.72470589999999;0.1603006782058069;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJfyB2ObuViDARuFaL5fyq7JE;Hotel Ambika Residency;11.664011;92.726182;1.1483579786360352;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJ6acRXAuViDARwePYqsZydHU;Aberdeen;11.66992;92.74278000000004;1.9200985025113873;[];[];;;
+point_of_interests;gr_ChIJ69P0s7CViDARgulTGFOYnY8;Port Blair International Airport;11.6519376;92.7336809;2.6359995363946123;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJByxS3kOViDARQrLYbkB57iM;Ross Island Helipad;11.6767459;92.7616775;3.9234688626699676;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJrS2b8UaUiDAR-mzGxWAfeg0;Ryans Restaurant;11.6337239;92.72165199999999;4.53690156392987;['Restaurants'];['restaurant'];;;
+point_of_interests;293675425;Austinabad Bus Station;11.62806;92.73077;5.174061690948313;['Transportation'];['transport_bus'];;;
+point_of_interests;293675428;Garachapna Bus Station;11.61326;92.70298;7.228529583880557;['Transportation'];['transport_bus'];;;
+hotels;10002;OYO Hotel Hill Top;11.674329;92.725732;;OYO Rooms;;PTB003;Haddo, Port-Blair;Hotel
