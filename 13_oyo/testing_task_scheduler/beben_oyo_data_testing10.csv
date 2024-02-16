@@ -1,0 +1,344 @@
+source;id;name;latitude;longitude;distance;categories;subcategories;oyo_id;address;hotel_type
+point_of_interests;gr_ChIJN4b_b94JpTsRH_mRLX1okk0;Armaan Food Hut;12.4402832;75.9673427;1.1380514578697936;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJMSUckr-npTsRhqmFY6aXw4M;Elephants and Coffee Multi Flavour Restaurant;12.4602275;75.9608385;2.3430322197487508;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJBZJ0mckJpTsRGYgaE65lMyc;Trippers Resto Cafe;12.4547864;75.9532469;2.708061597909185;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJRXNi3a2gpTsREgCiZm0E_Oo;Hotel Taj;12.42721;75.997963;3.1114147229246596;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJpVQDnjMIpTsR-BhynlqAU3g;Kushalnagar;12.4498022;75.94353360000002;3.591862084238471;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJoTuh-zoIpTsRwo-FrkiXPRs;Purple Palms Resort and Spa, Coorg;12.447022;75.93227999999999;4.785417898042337;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJR-B_QNQHpTsRHvbpd1mzLgg;Shanthi Homestay;12.4722202;75.89571409999999;9.241187039301623;['Restaurants'];['restaurant'];;;
+hotels;88150;OYO Flagship 65044 Immense Inn;12.4455549;75.9763263;;Flagship;;COG360;Karnataka, 571104, India , Coorg;Hotel
+point_of_interests;gr_ChIJe2oGsHTmaC4RnIp8cx9vLNg;Stasiun Andir;-6.908140899999999;107.5792451;1.1606631075400615;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJ67iOZzrmaC4RyeTdvEVbCPI;Stasiun Cimindi;-6.896177700000001;107.5611205;1.836205299994541;['Transportation'];['transport_rail'];;;
+point_of_interests;AW0o3F_fZEA9YA7QiDQJ;Terminal Ciroyom;-6.9140362;107.5875725;2.0781400141369146;['Transportation'];['transport_bus'];;;
+point_of_interests;ChIJ2yDUV3vmaC4RgH4Vufxx0E0;Bandung Trade Center (BTC) - Fashion Mall;-6.893454;107.5848362;2.5906783220773875;[];[];;;
+point_of_interests;ChIJk6IWj2rmaC4RLuSsQjWnNkM;Istana Plaza;-6.90582;107.5969905;3.131542961635843;[];[];;;
+point_of_interests;gr_ChIJAYeQaTzmaC4RVXRhIX_AwTQ;Bandung Station;-6.9137651;107.6024864;3.7066965821521065;['Transportation'];['transport_rail'];;;
+point_of_interests;ChIJCYpAP2DmaC4RshB4KjZqULA;PVJ Bandung;-6.8891849;107.5961583;3.8308147164222004;[];[];;;
+point_of_interests;ChIJp3dXADjnaC4Rxns03xmNv5I;Ciwalk Shopping Mall Bandung;-6.8931111;107.6057119;4.494591830728826;[];[];;;
+point_of_interests;AW0o3F-H4gDBgXG7Mvgl;Terminal Tegalega;-6.934067;107.602532;4.518207350764741;['Transportation'];['transport_bus'];;;
+point_of_interests;AW0o3F5q4gDBgXG7Mvge;Terminal Caringin;-6.946805;107.588331;4.544534472471409;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJGTmbNlLkaC4RXbherMcLWio;Cimahi Train Station;-6.8857644;107.5360949;4.573697931325704;['Transportation'];['transport_rail'];;;
+point_of_interests;ChIJc27DwTfmaC4RjYWcrnohU5I;Bandung Indah Plaza;-6.9085962;107.6110129;4.638039695296286;[];[];;;
+point_of_interests;gr_ChIJ66PbeC_maC4RMxLwD6swTL0;Ibis Styles Bandung Braga;-6.9208069;107.6103663;4.697321868028627;['Restaurants'];['restaurant'];;;
+point_of_interests;ChIJt1JcBM7oaC4RE8zmyPqiDfM;Miko Mall Kopo;-6.9601126;107.5808035;5.646180318964784;[];[];;;
+point_of_interests;AW0o3F3uGDkfto-PXH0O;Terminal Cibaduyut;-6.9619217;107.5938611;6.3204291915338136;['Transportation'];['transport_bus'];;;
+hotels;88151;Super OYO 2183 Cibeureum Residence;-6.910694;107.56905;;OYO Hotels;;ID_CMI002;Jl. Jend. Sudirman No.851, Cibeureum, Kec. Cimahi Sel., Kota Cimahi, Jawa Barat, Cimahi;Hotel
+point_of_interests;gr_ChIJ4XC1xxEmvzsRfy62OwBZ7qw;Shri Durga Darshini;15.3321602;74.7650654;3.978012953074023;['Restaurants'];;;;
+point_of_interests;gr_ChIJRVB2mxwmvzsRMjpQAWzx-xU;Laxman Palace;15.3321489;74.7751057;4.70902828280442;['Restaurants'];;;;
+point_of_interests;gr_ChIJ9aLpcXEvvzsRme4R4JuGJJ0;Anna Daba Haliyal;15.3470445;74.7968853;7.559687889197741;['Restaurants'];;;;
+hotels;88152;OYO 65045 Rajashekhar Resorts;15.303726;74.742555;;OYO Rooms;;DED003;: Kesrolli cross Haliyal, Dandeli, , Dandeli;Hotel
+hotels;88153;OYO 65046 new property secunderabad;17.438039042571624;78.49902603775263;;Mid Range;;HYD1240;Secunderabad, Hyderabad;Hotel
+point_of_interests;gr_ChIJoZva4737mzkRjrqgb1WXTj0;BBAU Canteen;26.7668438;80.92743;1.4125475073451639;['Restaurants'];;;;
+point_of_interests;google_record_ChIJEwsLp3T8mzkRCzbwALtNX9U;Bazar;26.793487;80.92165350000005;2.1840866544595485;['Shopping'];;;;
+point_of_interests;2194710817;Lucknow Amausi Airport;26.777416;80.902655;3.1890607853143558;['Transportation'];;;;
+point_of_interests;gr_ChIJkU6GXkP8mzkR_RoVAws9lSo;Helipad;26.8172573;80.93070999999999;4.414630815986436;['Transportation'];;;;
+point_of_interests;gr_ChIJXxpuU6_-mzkRB_wumYguhCA;Surya Bar & Hotel Continental;26.797167;80.8930168;4.675321366899362;['Restaurants'];;;;
+point_of_interests;google_record_ChIJ734BzUL5mzkRepCjw8nwfdM;Chaudhary Charan Singh International Airport Terminal;26.7641844;80.88743610000006;4.935128155324449;['Transportation'];;;;
+point_of_interests;gr_ChIJWVlE3TL5mzkRQLO0350iA_s;Lucknow Airport VIP Terminal;26.7735631;80.8801886;5.438927333879022;['Transportation'];;;;
+point_of_interests;google_record_ChIJEf9Rlkv8mzkRSZWJUtGBdLM;Lucknow Charbagh railway station;26.8311093;80.92439760000002;6.025136352216878;['Transportation'];;;;
+point_of_interests;gr_ChIJdf4bNOH8mzkRURVcwc8P-ik;Dilkusha Cabin;26.8315017;80.96113799999999;6.5272549603135035;['Transportation'];;;;
+point_of_interests;google_record_ChIJqcSkrK39mzkRACu0KuloBlg;Golden Tulip;26.8396032;80.93365449999999;6.881785282026711;['Restaurants'];;;;
+point_of_interests;google_record_ChIJaZJkDgT9mzkRb8d6_YZa3eA;Park Road;26.842665;80.94940500000007;7.365795789155326;['Shopping'];;;;
+point_of_interests;gr_ChIJDb3ieAz9mzkRyNjFrK4nen0;Orchid-Fortune Park BBD, Lucknow;26.8519784;80.9550763;8.499103695154696;['Restaurants'];;;;
+point_of_interests;gr_ChIJ0_78kaH9mzkRkYXbdsT-x3Q;Clarks Avadh, Lucknow;26.856651;80.9354305;8.776755147740065;['Restaurants'];;;;
+point_of_interests;google_record_ChIJxUwRZyv9mzkRFrgJ7iK28Xc;Vipul Khand 5;26.8439298;80.9856145;8.924779855495968;['Restaurants'];;;;
+point_of_interests;ChIJ19iA8Wf-mzkReBQXS8TLQeA;Lal Market;26.842183;80.877057;9.175558389966017;['Shopping'];;;;
+hotels;88154;SPOT ON 65047 Gokul Residency;26.777722;80.934778;;SPOT ON;;LCK832;2/356 Rajni Khand Rd, sharda nagar, Telibagh, Lucknow, Lucknow;Hotel
+hotels;88155;OYO Hotel Murialdo;-29.122094744897325;-51.04651182889938;;Mid Range;;BR_RSPOA004;Av. Dante Marcucci, 5335 - Fazenda Souza, Caxias do Sul - RS, Brasil, Caxias do Sul;Hotel
+point_of_interests;gr_ChIJh_n0gl7yXpMR1oXrUllACLo;Anac;-16.6333622;-49.2263578;3.24332385449619;['Transportation'];;;;
+point_of_interests;gr_ChIJkTIFJk7xXpMRexy5pA5TP5o;Heliponto - Gabinete Militar - SIGI;-16.6819179;-49.255933;4.573057290857434;['Transportation'];;;;
+point_of_interests;gr_ChIJn2aSQGPyXpMRSbfXswef2PU;Aeroporto Santa Genoveva;-16.6294537;-49.2142754;4.599800370911483;['Transportation'];;;;
+point_of_interests;gr_ChIJFRIElkLxXpMR1pXNB87Ydms;National Aviation Aerodrome;-16.68689119999999;-49.2647943;5.214894543888985;['Transportation'];;;;
+point_of_interests;gr_ChIJzwd6SrDxXpMRBWyKCo4iS7k;Heliponto - Defesa Civil;-16.6993222;-49.2321801;6.977558698828008;['Transportation'];;;;
+point_of_interests;gr_ChIJGcUGGBrxXpMRL1udMpGSkCg;Heliponto Graer - SJPG;-16.7044687;-49.25818950000001;7.085160650807001;['Transportation'];;;;
+hotels;88156;OYO Hotel Colorado;-15.694754;-47.874157;;OYO Hotels;;BR_DFBSB004;Sit Km 2,5, Núcleo Rural Taquari, Brasilia;Hotel
+point_of_interests;1270724;Gumgaon;20.99076;79.03173;2.765729197175795;['Transportation'];['transport_rail'];;;
+point_of_interests;google_record_ChIJHfEErujA1DsRrkkseNMWjh0;Nagpur;21.0427402;79.05533190000006;7.189044495430479;['Restaurants'];['restaurant'];;;
+point_of_interests;2100207021;Butibori;20.919159;79.013313;8.724700618609722;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJ41pCd_mU1DsRQ4_XqD1IS3w;S T Stand;21.0715467;78.9658552;9.246541618204814;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJ7aby8FO-1DsR9XPRdLB7RVo;Chichbhavan Bus Stop;21.0673907;79.0586283;9.512724986347;['Transportation'];['transport_bus'];;;
+hotels;88157;Collection O 65048 Figure Framing Health Resort;20.997327;79.006034;;Collection O;;NAG258;Unnamed Road, Maharashtra Nagpur, Maharashtra India, Nagpur;Hotel
+point_of_interests;gr_ChIJu3UXHfrV5TkRGshTq1JKtg8;Laligurash Homestay;27.1547081;88.0991483;2.556471241026819;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJayt4l7HV5TkRAvgCzFtuNAU;Samdrup homestay;27.1394772;88.1053868;4.348725540086593;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJcVmiHmzW5TkRpsOrXTWp-pg;Youth Hostel Sirikhola;27.132085;88.07674569999999;4.878599310950458;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJ971G_hzX5TkRY3v6-Dcre64;Zero point;27.1276056;88.0673923;5.615770073999572;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJL6q4ZDXV5TkRN_ikK3ZrSaE;The Green Dale Homestay;27.1182142;88.108391;6.659594029684713;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJk5Lm_PfV5TkR7vE-8INlzSw;Big Belly;27.139328;88.151793;7.538354681263858;['Restaurants'];['restaurant'];;;
+hotels;88158;OYO Singalila Sunview Homestay;27.175;88.087;;OYO Rooms;;PLN043;Gumpa Gpu, Upper Bhareng, Pelling;Hotel
+point_of_interests;320485012;KSRTC New Bus stand;12.94117;75.781545;0.9476751011324759;['Transportation'];['transport_bus'];;;
+point_of_interests;1672987435;Sakleshpur;12.945498;75.778976;1.0152124425564995;['Transportation'];['transport_rail'];;;
+point_of_interests;1967082966;Donigal;12.904371;75.734641;7.473251865217235;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJO6MJ9HQnpTsRipVSZMmdwRk;Donigal Railway Station;12.9043705;75.7344782;7.487016421240355;['Transportation'];['transport_rail'];;;
+hotels;88159;SPOT ON Bawa Lodge;12.9466131;75.788274;;SPOT ON;;HAS019;Azad Road, Sakleshpur, Hassan;Hotel
+point_of_interests;gr_ChIJVzheMC-jwjsR7jyYIsuOAb0;Shanti Company;18.517574;73.643849;0.264797066486221;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJqf2O_NS8wjsRsuByroppdFY;Sutarwadi Paud Road;18.51545399999999;73.655957;1.561254693613621;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJeZTq3Q6jwjsR8M5c4j1-Fqg;Shirkevasti;18.523298;73.613828;2.965640632160165;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJEbtFpt68wjsR9pc7gUeFTNY;Sangam Metal Company;18.519176;73.672139;3.236492153916421;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJCcV1qae8wjsRZyy-n_Yu3RM;Rihe Phata;18.556905;73.668145;5.132617134417331;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJ4dJu1rmkwjsRpuS6qgnt3JM;Rihegaon;18.576736;73.641723;6.497885974752634;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJJ2AGg1e8wjsRMKEzhV5cU0I;Bus Station Lavle;18.527473;73.70332900000001;6.602721896960963;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJDxYbeW27wjsR5uWQWoj1hF4;Tech Mahindra Helipad;18.5815074;73.68843799999999;8.59807384363242;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJf55KK3G8wjsR6IcFXpktZeQ;Nandegaon Phata;18.5578;73.715712;8.976358402578686;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJ2wbJBDy8wjsRPuMsP3qv4F4;Symbiosis Helipad;18.536763;73.7306294;9.62316738195983;['Transportation'];['transport_air'];;;
+hotels;88160;SPOT ON Greenwood Lodge;18.5182997071584;73.6414569988847;;SPOT ON;;PUN1027;Balkawde Vasti, Darawali, Pune;Hotel
+point_of_interests;gr_ChIJU53gAoWG3TsROAmEvG2fUCk;Hotel Ashwin;19.6931451;73.5495928;0.24671556565517572;['Restaurants'];;;;
+point_of_interests;gr_ChIJAwZ16niF3TsRkUtLUfngiOg;Anand Bhavan;19.6952539;73.5614263;1.2097772335292145;['Restaurants'];;;;
+point_of_interests;gr_ChIJdRd6LVmF3TsRBzhfwGyE5e8;Hotel Sai Plaza Restaurant And Bar;19.6858085;73.5681341;1.9201377609993848;['Restaurants'];;;;
+point_of_interests;gr_ChIJ54AjiY-G3TsRcmHbUklq-6I;Manas Resort With Petting Zoo;19.697883;73.529643;2.3273986061563994;['Restaurants'];;;;
+point_of_interests;gr_ChIJR2AZEXWE3TsReybGGkfLG08;Touchwood Bliss Igatpuri;19.6604355;73.5847204;4.937360932229224;['Restaurants'];;;;
+point_of_interests;823469291;Kasara;19.647861;73.472547;9.496782145267895;['Transportation'];;;;
+point_of_interests;gr_ChIJ0aHggiGF3TsR6yuEwQwv5Oc;Ghoti;19.7240286;73.6364658;9.691588471736049;['Transportation'];;;;
+hotels;88161;OYO 65052 Meghmalhar Homestay;19.69119;73.550707;;OYO Rooms;;IGP019;438/1 survey no. ,talegaon phata, NH3,Igatpuri, Igatpuri;Hotel
+hotels;88162;SPOT ON 65053 Sumitra Marriage Hall & Guest House;27.232777106460546;79.00529634207487;;SPOT ON;;MAN023;Jyoti Rd, Buddha Vihar, Mainpuri, Uttar Pradesh 205001, India, Mainpuri;Hotel
+point_of_interests;gr_ChIJ_VHbzfD0AjoR840S060x470;Kukrahati Old Bus Stand;22.1862069;88.11764099999999;7.485470588929371;['Transportation'];['transport_bus'];;;
+point_of_interests;339860960;Kukrahati;22.187142;88.119883;7.49463466162277;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJqXhnDfr0AjoRm7FwX9_P_wE;Kukrahati Bus Station;22.1870942;88.11991030000002;7.5006499949127035;['Transportation'];['transport_bus'];;;
+hotels;88163;Capital O Rajhans Hotel And Resort;22.2470372;88.0864941;;Capital O;;KOL1438;Wbiidc, South 24 Pgs, Kolkata;Hotel
+point_of_interests;gr_ChIJ_fJhxbxX7TkRlve3fEpa9ww;Yo!China;25.6151608;85.0823284;1.5021975470418505;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJLfOkSr9X7TkRRrPEg7dP5K4;Bailey Road;25.6054434;85.08054029999994;2.1223952284149274;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJ5fWI8mBW7TkR_c80lGhRvFk;Saguna More Bus Stop;25.6227099;85.04267959999993;2.6522405909462665;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJeYonpBZX7TkRZVYac57JWIk;Digha Bridge Halt;25.6463047;85.08013629999999;2.971622408816616;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJ7bdWHnlX7TkR27DNF1gVd4k;Rajiv Nagar Halt;25.63136609999999;85.0997175;3.2597894917213783;['Transportation'];['transport_rail'];;;
+point_of_interests;316537399;Jaiprakash Airport Teminal;25.594565;85.090902;3.7082658731804563;['Transportation'];['transport_air'];;;
+point_of_interests;google_record_ChIJbdC5vCtY7TkRfdMlLoJzHjo;Boring Road;25.6248719;85.11007339999992;4.125140539993757;[];[];;;
+point_of_interests;gr_ChIJsUS-U9ZZ7TkR9bT1GKeoCKE;Cleartrip Patna;25.6371939;85.1087027;4.336941629848403;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJ01duh-FX7TkRD0nRbr0MBmc;Zaika Restaurant;25.58318359999999;85.0908145;4.785016119751278;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJMYZzEyNY7TkR82KfhkFV0GA;Punaichak Halt;25.60943049999999;85.1151237;4.805978509144162;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJj-Ineh9W7TkR-bjzdhC-KPU;Danapur Railway Station;25.5824653;85.0436026;5.037704489538571;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJf1ZkOQNY7TkRGXgk47u-I7w;Gardanibagh Highschool Bus Stop;25.5921986;85.11003389999996;5.240765493116029;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJz-hS1kBY7TkRmLnqu7EKV9I;Vidyut Bhawan;25.6110017;85.12965559999998;6.182993515530233;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJD2onVhNY7TkR2-Rj0DphVwk;R Block;25.5996244;85.1269508;6.290269825954337;['Transportation'];['transport_rail'];;;
+point_of_interests;oyo-locality-19356231;Railway Station;25.60245;85.13846;7.270273589039014;['Transportation'];['transport_rail'];;;
+hotels;88164;Pop live on new code-PAT881;25.621502;85.069099;;OYO Rooms;;PAT376;Patliputra Jn., Patliputra Station Rd, Jagat Vihar Colony, Rukanpura, Patna 800013, Patna;Hotel
+point_of_interests;google_record_ChIJR7A2QUKY2zsRt_ZPNhIEalQ;Hotel Raviraj, Adalat Road, Aurangabad;19.873955;75.31609900000001;0.6763021069061353;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJj-C_zm-Y2zsRiLs5r0geXN8;Kranti Chouk;19.873349;75.328554;1.2104310187725473;['Transportation'];['transport_bus'];;;
+point_of_interests;ChIJj0XYPLKi2zsRWL_4tDOMb_o;Ginger Hotel Aurangabad;19.864645;75.317281;1.6517558559734493;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJNxgzZkmY2zsRSa7JZ-Q-kMg;Nagar Naka Aurangabad;19.876078;75.301054;1.9072506894634957;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJDYiCpQuY2zsRlEQNRcDAQCM;Shahaganj Bus Station;19.8865655;75.33746959999999;2.093895041452176;['Transportation'];['transport_bus'];;;
+point_of_interests;oyo-locality-10335919;Railway Station;19.87556;75.33929;2.1703775098407947;['Transportation'];['transport_rail'];;;
+point_of_interests;ChIJNeffAQeY2zsRMT-HIpY6_cs;Hotel Royal Front Residency Aurangabad;19.898126;75.338308;2.903006142263336;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJrxH1aoyY2zsRTBJwhl3-8vI;MIT College Bus Stop;19.8515686;75.32209399999999;3.114078835267624;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJm39y5viY2zsRdjJPWXK8rbA;Bypass (Waluj);19.854783;75.302178;3.2522818923733254;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJUQiL6oKY2zsRonblzYcB-wI;Beed Bypass;19.850108;75.33959290000007;3.90951787213521;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJw7Lm4LKi2zsRYar0mdi01WI;Jalgaon Road;19.906402;75.35553890000006;4.862574092716658;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJiwLdde2i2zsRBJRUDKWIp-E;CIDCO Bus Station;19.8753995;75.3672694;5.073102062553493;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJ1QALk2Wi2zsRMUl-W0r6jqc;Beed Bypass Road;19.8510469;75.35709500000007;5.086237593146846;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJP6fG_V6i2zsRlfjbVDw_6Rw;Mukundwadi Halt;19.8595355;75.3678846;5.575042724988075;['Transportation'];['transport_rail'];;;
+point_of_interests;google_record_ChIJsXRW1US92zsRhJWd5ANn7BA;Ajanta Road;19.9223258;75.35290179999993;5.947304017993589;['Restaurants'];['restaurant'];;;
+hotels;88165;Flagship Hotel Mezza Lodgings;19.879417;75.318944;;Flagship;;AUR145;Bus Stand, Aurangabad;Hotel
+hotels;88166;OYO 449 Nyth Hotel;13.0950382522403;100.917658209801;;OYO Hotels;;TH_PTA042;Nong Rae road., Chonburi;Hotel
+point_of_interests;gr_ChIJ-8dDiTUvUDARvEyUu7anPBY;THE VIJITT RESORT PHUKET;7.7927537;98.3326878;1.9898322200131753;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJjW1HBzovUDARJZ3jW9mVPrk;Serenity Resort & Residences Phuket;7.800734999999999;98.33740999999999;3.002073916801447;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJy0YU7xovUDARLOAduUPC3h0;Super Green Hotel tel +66828103414;7.820497499999998;98.3436218;5.299186061905646;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJs_URy40lUDARCalwyWNCaZw;Minibus station;7.816537899999999;98.3005084;5.408116958430986;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJZfsRlyc3UDARuPJYDEfepBE;Karona Resort & Spa;7.829923000000001;98.29579299999999;6.949807534834637;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJYznlabYvUDARHLEQ9zxTF3A;Forest Bungalows & Mama's Restaurant;7.851918;98.345387;8.708017368547527;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJn5qyq24lUDARSsCPPEnl3g8;Pacific Club Resort and Spa;7.8568608;98.2959431;9.657672038319786;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJAxNMChcsUDARYHnB6TnkGKw;Cape Panwa Hotel;7.8074116;98.409148;9.693452152163589;['Restaurants'];['restaurant'];;;
+hotels;88167;OYO 450 Rawai Studios Resort;7.77570955957674;98.327184766531;;OYO Hotels;;TH_PKT069;Moo 6 Viset Rd, Phuket;Hotel
+point_of_interests;gr_ChIJjW1HBzovUDARJZ3jW9mVPrk;Serenity Resort & Residences Phuket;7.800734999999999;98.33740999999999;3.3604870257864947;['Restaurants'];;;;
+point_of_interests;gr_ChIJUUddno8lUDARn7b9cGTUzAs;Ibis Phuket Kata;7.822808899999999;98.29923579999999;4.189491668973292;['Restaurants'];;;;
+point_of_interests;gr_ChIJ6TQCfLs6UDARawzNBszHU8A;Ansino Bukit Hotel 3 Star;7.885686300000001;98.29745989999999;7.445122578044229;['Restaurants'];;;;
+point_of_interests;gr_ChIJd8raTPkxUDAR0Xd8eWNa6cA;Ban Roeng Chit Restaurant;7.880357799999998;98.39180209999999;8.214462295696547;['Restaurants'];;;;
+point_of_interests;gr_ChIJAxNMChcsUDARYHnB6TnkGKw;Cape Panwa Hotel;7.8074116;98.409148;8.433245609806605;['Restaurants'];;;;
+point_of_interests;gr_ChIJBa4_t806UDARDTPgwXPVcfg;Avista Hideaway Phuket Patong – MGallery;7.881067;98.27821;8.491927908075185;['Restaurants'];;;;
+point_of_interests;gr_ChIJE2lIRpg6UDAR6w9A7rdqtUo;BYD Lofts Boutique Hotel & Serviced Apartments;7.900924000000001;98.299633;8.771241138391622;['Restaurants'];;;;
+point_of_interests;gr_ChIJjSZdCvYzUDARB9HnYKt2PM4;Phuket Transfer Travel Asia;7.882225200000001;98.4084166;9.772427186476289;['Transportation'];;;;
+hotels;88168;OYO 451 Samran​ Resort;7.830939;98.336371;;Premium;;TH_PKT070;Soi Jaofa 49, Phuket;Hotel
+point_of_interests;gr_ChIJk6c4iwBmwjsRqfRoBFui4Kc;Krishna Valley Villa;17.925324;73.749191;2.1385248727819093;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJfc7Gqh5mwjsR6fSmBingI6c;Shakuntal Bangalow;17.9290474;73.7669408;2.2114148320971787;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJ5ZbhoJ1owjsR53MIcwxW9J8;Hotel Rainforest;17.925468;73.783985;2.961337839922129;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJmy59EVNlwjsRhIVzlvMkCjM;Hilltop House;17.916793;73.7225306;4.169956345451788;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJOayv7cVnwjsR3HADujL-AJM;Ravine Helipad;17.943179;73.80744609999999;6.128066483882051;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJDcstuYFlwjsR6NSycxdKtlk;Golden Valley Resort;17.9221146;73.70239910000001;6.375163444036338;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJTQC_k3RlwjsRWHiQo4agZ1Q;Archies Farm House;17.938721;73.69604609999999;7.608376941200704;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJ___rlUZlwjsRTwXBjXxLpg8;Hirkani Garden Restaurant;17.9359561;73.6720161;9.877477875577402;['Restaurants'];['restaurant'];;;
+hotels;88169;OYO Maple Stays;17.9099051;73.7612719;;OYO Rooms;;MBL169;Mahabaleshwer, Mahabaleshwar;Hotel
+hotels;88170;OYO Aboukir Hotel;56.502197;-2.702942;;OYO Hotels;;EN_CUE002;Ireland Street, Carnoustie, Carnoustie;Hotel
+hotels;88171;OYO REW030 Hotel Milan;28.2019664383995;76.6136518679559;;OYO Rooms;;REW030;Railway Road,Near Gurudwara,Opp- Metro Vaishno Bojnalaya, Rewari;Hotel
+hotels;88172;OYO 65059 Sanskar;27.600134384922516;76.6094808652997;;Mid Range;;ALW079;Unnamed Road, A Block, Budhvihar, Alwar, Rajasthan 301001, India, Alwar;Hotel
+point_of_interests;google_record_ChIJ9aJDXXMEDTkRVvf94CUd4Vc;Peeragarhi;28.6790754;77.0960761;1.2911165616796616;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJcfa8c3gEDTkRzTU5eZqrKCU;Jwalaheri Village;28.6679641;77.10202529999992;1.4066801654295151;[];[];;;
+point_of_interests;google_record_ChIJHz6H2TYEDTkRCRY4Guq04PI;Nangloi Metro Station;28.6824068;77.06463120000001;2.64693086852696;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJ____iHcEDTkR-gJtltPnGFY;CHANSON GRAND WESTEND VIKASPURI NEW DELHI;28.63934549999999;77.0758029;3.6056692341802608;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJG4Nlc3MDDTkRKa3EQz5jUHY;Nehru Nagar;28.653149;77.12303099999997;3.916025970140024;[];[];;;
+point_of_interests;gr_ChIJKWsQqgADDTkRWzEka3EktJg;FLIGHT GURU;28.7049199;77.096351;3.969797915407149;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJ36yhVCEHDTkRPmHyggE-Sw4;Delhi Airport;28.7096936;77.08666459999999;4.413335629323503;['Transportation'];['transport_air'];;;
+point_of_interests;google_record_ChIJFygqnuMDDTkRSZ8uAinkW3w;Maharaja Agrasen Marg;28.7009751;77.11655440000004;4.440662236373522;[];[];;;
+point_of_interests;google_record_ChIJ-0nL48ADDTkRtxUYSZMGjR4;1416 North West Delhi;28.6864711;77.12950569999998;4.4612539432020455;[];[];;;
+point_of_interests;347685176;Uttam Nagar East;28.62483;77.065297;5.48328627159018;['Transportation'];['transport_rail'];;;
+point_of_interests;google_record_ChIJVSForFsBDTkR1uQ7y2bgUUA;Rohini Sector 7;28.713617;77.11710700000003;5.628339572656697;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJ5b78EUwBDTkR-a4QwiGGXV8;Rithala Metro Station;28.7208443;77.10712060000003;5.95781221690056;['Transportation'];['transport_rail'];;;
+point_of_interests;google_record_ChIJF3q83YwGDTkR9RnKKPS8uzA;Rohini Sector 22;28.721972;77.06470000000002;6.200994888267169;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJmS8eurQEDTkRXzi2cJJ9GJI;Dabri More;28.611381;77.08414900000002;6.529644595242004;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJRYZYx3GKDjkRu0SDLUv3Uac;Hotel City Park, KP Block, Pitampura;28.7054429;77.14335959999994;6.700167344489059;['Restaurants'];['restaurant'];;;
+hotels;88173;OYO 65060 Bhera Residency;28.670016;77.087798;;OYO Rooms;;DEL2196;Bhera Enclave, Paschim Vihar, Delhi;Hotel
+hotels;88174;OYO 65061 New Property Kathautha lake;26.86633943585017;81.03414908051491;;Mid Range;;LCK833;Near Kathutha lake, Lucknow;Hotel
+point_of_interests;1253348;Vatva;22.95858;72.62917;2.8313966310324115;['Transportation'];;;;
+point_of_interests;gr_ChIJE-C_HwKGXjkRaZX0EfSTESo;Cadila Railway Crossing;22.977237;72.6211434;4.198313044421713;['Transportation'];;;;
+point_of_interests;google_record_ChIJn-xr1xCGXjkRuh5vWu6Xt10;CTM Flyover 2;22.99132;72.63237179999999;4.41372382973638;['Shopping'];;;;
+point_of_interests;google_record_ChIJB_b6CcqHXjkRbe7a6b1sjZ0;Ahmedabad;23.0040336;72.66726900000003;5.160870107357412;['Restaurants'];;;;
+point_of_interests;google_record_ChIJA2s1WHSGXjkRUQ52uj9tDpI;Khokhra Circle;23.0024384;72.61906629999999;6.218661764898593;['Shopping'];;;;
+point_of_interests;google_record_ChIJEwYH2umFXjkRHZ6SazpwMyI;Railway Station;22.9961698;72.59958430000006;7.1946528111580195;['Transportation'];;;;
+point_of_interests;google_record_ChIJk9DT5NqFXjkR0D721kj9JVY;1 Ahmedabad;23.0063769;72.60548599999993;7.4705684440431215;['Restaurants'];;;;
+point_of_interests;1277011;Barejadi;22.89445;72.67935;7.499890911685343;['Transportation'];;;;
+point_of_interests;google_record_ChIJDeb_W6iHXjkR0Ca27AIxJWc;Odhav;23.0252803;72.6723935;7.580835305958157;['Shopping'];;;;
+point_of_interests;google_record_ChIJQQBwBy-EXjkRRwm_0b7pAN8;Saraspur;23.0373143;72.61475229999996;9.751858102102885;['Restaurants'];;;;
+point_of_interests;oyo-locality-15044494;Railway Station;23.02934;72.60027;9.76396200222468;['Transportation'];;;;
+hotels;88175;Live on AHM384;22.9586279438299;72.6568237692118;;OYO Rooms;;AHM563;3rd Floor, Radhe Corner, Hathijan Circle, ring road, , Ahmedabad;Hotel
+hotels;88176;OYO 65063 Hotel Omaxe heights;28.40843320223496;77.34046194702387;;Mid Range;;FAR206;Sai Dham Marg, Sector 86, Faridabad, Haryana 121002, India, Faridabad;Hotel
+hotels;88177;SPOT ON 65064 Royal Guest House;28.904556306677055;76.60447049885988;;SPOT ON;;RTK070;rajiv Gandhi sports H no - 1017, Stadium Rd, Vishal Nagar, Rohtak, Haryana 124001, India, Rohtak;Hotel
+point_of_interests;google_record_ChIJR8fLfvcXDTkR5KzoojtOAmY;Omaxe Mall;28.4111008;77.04313830000001;1.081340154733612;[];[];;;
+point_of_interests;ChIJWWF_m3MYDTkRA_KvgsN4N5k;Subhash Chowk;28.429104;77.036672;1.0987964439171296;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJ8ybCypAjDTkR9K9gM26KU6A;Nitin Kumar sah Q block Bangali market South City 2;28.41911159999999;77.0483509;1.1035582483413071;['Transportation'];['transport_air'];;;
+point_of_interests;ChIJIS1qsmQYDTkRIw7a4XamF2E;Bakhtawar Chowk;28.4361256;77.0505218;2.2937311379794947;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJE437_j8YDTkRuRWRRb513Dk;Rajeev Chowk;28.445297;77.03321299999993;2.923095716996318;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJLbWsHfYXDTkRC7DHuEHu7oU;Hero Honda Chowk;28.436207;77.01020500000004;3.2348502620348385;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJ-SdqVlkYDTkRARxHr8Xxny8;Huda Market;28.4530734;77.0509849;4.0018834608201335;[];[];;;
+point_of_interests;gr_ChIJa3V2bkYYDTkRXORa3zzhsTw;Hotel Haut Monde, Gurgaon;28.4552798;77.03823299999999;4.01035239958938;['Restaurants'];['restaurant'];;;
+point_of_interests;922909980;HUDA City Centre;28.459331;77.072686;5.658048812349942;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJbzTefQcjDTkRWd-_4YBuqro;Lemon Tree Hotel, Sohna Road, Gurgaon;28.370563;77.05737119999999;5.764309508947782;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJyw_9ogQiDTkR0xTibKlXLjY;Club Florence;28.4177761;77.09634119999998;5.798977117250896;['Restaurants'];['restaurant'];;;
+point_of_interests;ChIJFdX4gAAiDTkR1kx4QnsepEg;Subway Restaurant Sec 56;28.4278928;77.0999978;6.2289832359528985;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJ76KgAiEiDTkRw62nMJ-4n7k;Lemon Tree Hotel;28.4020043;77.0999645;6.44277647386723;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJF9ybDOIYDTkRazlieSUZjQY;IFFCO Chowk Metro Station;28.471425;77.07239000000004;6.753763101956185;['Transportation'];['transport_rail'];;;
+point_of_interests;google_record_ChIJpYe11cQYDTkRzmcbVCznZhI;Super Mart 1;28.4627505;77.08733889999996;6.897846886521942;[];[];;;
+hotels;88178;OYO Major Residency Near Omaxe Celebration Mall;28.4192284132074;77.0370672270656;;OYO Rooms;;GRG1839;Gurugram Tikri, Gurgaon;Hotel
+hotels;88179;OYO 65066 The Royal Inn;25.566898585362015;91.88982680439949;;Mid Range;;SHL160;Dhankheti Bus Stop, Dhankheti, Malki, Shillong, Meghalaya 793001, India, Shillong;Hotel
+hotels;88180;OYO Dream Lodge;26.5239410400391;92.1523284912109;;OYO Rooms;;TEZ027;Hospital Road Near Astc Bus Stand, Niz Kharupetia, Tezpur;Hotel
+hotels;88181;OYO 121 Majan Continental Hotel;23.574305875593517;58.392320573329926;;OYO Hotels;;OM_MST011;Ghubra St 2, Muscat, Oman, Muscat;Hotel
+point_of_interests;gr_ChIJS3EQeegpBDsR-jrWmVl6eHo;Hotel Gowri Sankar;8.9579867;77.3070889;0.12656330450648062;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJaZd62QiCBjsRWnqgup25UEk;FIVE STAR FRIED CHICKEN - TENKASI;8.973330899999999;77.300521;1.827577849617275;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJcS5mz8gpBDsRZMkTb7mae1Q;Kizha Puliyur;8.9533925;77.323011;1.9365584593733687;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJISmCSwEqBDsRYEZRV6Fjj4M;Ilani Bus Stop;8.9637438;77.2809106;2.82901403255096;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJGQP-dt0rBDsRaETjosdBG1k;Yamuulna Cottage GREEN RESORT;8.933913100000002;77.27804019999999;4.056202924362261;['Restaurants'];['restaurant'];;;
+point_of_interests;1354561546;boarder;8.971338;77.261675;5.091145777915421;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJzWI0MiIrBDsR-Bla3ZR1o_E;KRN cottage;8.9308178;77.2615869;5.722576478151676;['Restaurants'];['restaurant'];;;
+point_of_interests;353065113;Shencottai KSRTC Bus Stand;8.976832;77.249891;6.511297724106789;['Transportation'];['transport_bus'];;;
+point_of_interests;1262123;Nainaragaram;9.01721;77.32635;6.976060101484446;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJ8eMvlMqBBjsRWX82Zq5KYXM;Sengottai;8.9872518;77.24237169999999;7.713380834296289;['Transportation'];['transport_rail'];;;
+point_of_interests;178115595;Pavoorchatram Busstand;8.916741;77.380757;9.39981219085558;['Transportation'];['transport_bus'];;;
+hotels;88182;OYO Hotel Thavamani;8.95779563104001;77.3059529811144;;OYO Rooms;;CAM013;Thenkasi, Courtallam;Hotel
+hotels;88183;SPOT ON 65069 Sri Tirumalai Mahal Rooms;9.96414832539295;77.4388591200113;;SPOT ON;;TEI003;Veerapandi, Theni;Hotel
+point_of_interests;gr_ChIJL171a6zj9TkRYCoWYUaEAlk;Mango Chowk;22.820469;86.21228099999999;2.515021466521791;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJm4us_x3i9TkRRpAB6zJraZQ;Dimna Lake Helipad;22.861506;86.241389;2.9482202007514933;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJgYQ-tHfi9TkRi2iu8b_xYjs;Balkar hotel;22.8290181;86.25486839999999;3.3792448300783775;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJbY6YvZ7j9TkR9uEpUoxxEhA;Brubeck Bakery XLRI;22.817379;86.1912464;4.2279996922378364;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJa7S7_g7j9TkRbZpd9rTwvKk;Sakchi;22.8045665;86.20287540000004;4.528984693481957;[];[];;;
+point_of_interests;gr_ChIJFZBx9h3j9TkR0ffJY2QqdmI;Zing @The Golden IRIS;22.7963156;86.2152514;4.968835017057544;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJlaZgWXrk9TkRxLCW_SOq0mk;Kagalnagar Bus Stand;22.8222803;86.16785399999999;6.111663109797616;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJ_zYQb2Pj9TkRa2bvmJYoS9o;The Sonnet Hotel, Jamshedpur;22.798717;86.179546;6.501739847641218;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJhT3w8mfj9TkRZIiQkOiDjHE;Bistupur Main Road;22.7895513;86.18419849999998;6.970105710989899;[];[];;;
+point_of_interests;gr_ChIJO_ttxA8I9jkRI6R-R0X1KQU;Shanghai Kitchen;22.7794707;86.2707952;8.272585805539247;['Restaurants'];['restaurant'];;;
+point_of_interests;2669165078;Tatanagar Junction;22.768526;86.200014;8.35028393598963;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJqb826zH99TkR9y0e17TGCfg;Salga Jhari West Cabin;22.75906;86.22726;9.031084107865475;['Transportation'];['transport_rail'];;;
+point_of_interests;google_record_ChIJfU1USrnk9TkR2voVg45O5G4;Adityapur Railway Station;22.7834741;86.15768890000004;9.291454390652094;['Transportation'];['transport_rail'];;;
+hotels;88184;OYO The Orchid;22.84023;86.22422;;OYO Rooms;;JMD116;Dimna Chowk, N H 33, Opp Jawa Showroom, Jamshedpur;Hotel
+point_of_interests;gr_ChIJ-d23hoRDfDkRNtCWDm30w1M;OYO 14637 Hotel Taste of India Bhopal;23.1687497;77.4308963;1.4873944412818876;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJsWN7JJdDfDkRCv-0MPNlQK0;Bawadiya Kalan Road;23.1804696;77.43812819999994;1.9324028378106777;['Restaurants'];['restaurant'];;;
+point_of_interests;google_record_ChIJ_y2eFqNDfDkRHH8kUmHWngw;Aura Mall;23.1889581;77.43408299999999;1.9809858743976503;[];[];;;
+point_of_interests;google_record_ChIJJ6hctAVDfDkRb9l4XXtemrE;Kolar Nahar Bus Stop;23.1979534;77.416877;2.3296860246822715;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJy_oh5OhDfDkR1M-ps3mzerQ;Hosangabad Road;23.1829377;77.45634440000003;3.813532334311963;[];[];;;
+point_of_interests;1262987;Misrod;23.17134;77.45659;3.838819628285998;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJKfrDif9DfDkRzbtSdtQJQ-A;Café Coffee Day - C 21 Mall;23.1640663;77.4687069;5.229266618670246;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJ2UMJmUVCfDkRtVP_DOHkORQ;Habibganj railway station;23.2218222;77.4391973;5.3571036747253675;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJqWbCamdCfDkRpLsKLWMFC2g;Cafe Coffee Day - MP Nagar;23.232934;77.431592;6.32348329775899;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJhykjv0FCfDkRUzpuIcnBRzI;Hotel Rajhans Regent;23.2313525;77.4437356;6.5134610531374095;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJbwXjxr1CfDkRbUk4KGwkAMw;Roshanpura New Market;23.236073;77.39942099999999;6.868083372864805;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJq1vvMa5CfDkRo3X_8kWkqyI;Jehan Numa Palace Hotel;23.2411101;77.3846853;7.955757996389768;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJVdMr95FBfDkRY6b9zu0K1ig;Heli Pad;23.2294701;77.48255429999999;8.67641436937881;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJN50TW3ZCfDkR2MZ-5dtiLh8;Indian Coffee House;23.253347;77.4396443;8.717597493659;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJO4XJ-SVofDkRtAfSl3VMMeE;Adarsh Palace Hotel;23.2606396;77.4033968;9.429739882791392;['Restaurants'];['restaurant'];;;
+hotels;88185;OYO 65071 Sukh Palace;23.177149;77.419572;;OYO Rooms;;BHO391;Dk Annexe, Behind BGS Honda Showroom, Kolar Road, Bhopal;Hotel
+hotels;88186;Capital O Casa Ticul;20.6359285157495;-87.0659660920501;;Capital O;;MX_PLAY003;Fifth Avenue Mz 151 Lot 8, Gonzalo Guerrero suburb, 77720., Playa Del Carmen;Hotel
+hotels;88187;OYO Hotel América;18.683456687319;-88.3879072219133;;OYO Hotels;;MX_BRC003;Av 5 258, Mario Villanueva Madrid, Bacalar, Q.R., México, Bacalar;Hotel
+point_of_interests;gr_ChIJlQTNE253dDkRpxVw1VJBKHY;Bilochpura Agra;27.2020074;77.98676890000002;3.25654732216838;['Transportation'];['transport_rail'];;;
+point_of_interests;google_record_ChIJCQ7sI2R3dDkR1n-YBTMqcXQ;National Highway 2;27.2108983;77.98999470000001;3.874763897997627;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJe_K0rFF2dDkRgueokChw6ds;Kheria Airport;27.1618309;77.9707261;4.135962313653968;['Transportation'];['transport_air'];;;
+point_of_interests;google_record_ChIJb98Sa_p2dDkRAgI8cr1jk0o;Pandit Deen Dayal Upadhyay Airport;27.152696;77.96175579999999;4.8810247990330735;['Transportation'];['transport_air'];;;
+point_of_interests;google_record_ChIJ5Vi7wjt3dDkRHMWsJMqv6e4;Sanjay Palace;27.1999209;78.00505329999999;5.016222850072755;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJeeEoBteJczkREg-TflO87Ro;Pathauli;27.1569587;77.92540319999999;5.220264852832704;['Transportation'];['transport_rail'];;;
+point_of_interests;google_record_ChIJLzYNV-d2dDkR71G_YISMHsw;Idgah Bus Stand;27.1661375;77.99616910000009;5.299965057289908;['Transportation'];['transport_bus'];;;
+point_of_interests;google_record_ChIJATxe0SV3dDkRh2-X_hgHpGw;Hotel Moti Palace;27.1792821;78.00548370000001;5.377705729605738;['Restaurants'];['restaurant'];;;
+point_of_interests;ChIJq6qqJu92dDkRSMSxgVSzinI;Agra Railway Station;27.1578152;77.98992439999999;5.514334623234083;['Transportation'];['transport_rail'];;;
+point_of_interests;google_record_ChIJm426dVB3dDkRZastQS8ry_U;New Agra Colony;27.2099459;78.00825120000002;5.532398504043224;[];[];;;
+point_of_interests;gr_ChIJkXN4s9p3dDkRoY8BMtbN_MQ;नया टर्मिनल भवन;27.1399632;77.9458983;6.301896609054538;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJ5Q-ohcpwdDkRzqC_a8fDdcM;Belanganj Railway Station;27.1978088;78.02114399999999;6.5924852821376625;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJOZSy79N2dDkRp6hYAfBd3dc;Hotel Viren International;27.1668629;78.0155813;6.860652459302847;['Restaurants'];['restaurant'];;;
+point_of_interests;oyo-locality-19238663;Agra Fort Railway Station;27.179202;78.0238197;7.108343144725227;['Transportation'];['transport_rail'];;;
+point_of_interests;oyo-locality-10511696;Agra Cantt Railway Station;27.1540265;78.0146364;7.568058530470424;['Transportation'];['transport_rail'];;;
+hotels;88188;OYO Hotel Js Plaza;27.196116677;77.954514;;Premium;;AGR382;J S Plaza, Near Hema Petrol Pump, Paschimpuri Road, Bodla AgraNear Hema Petrol Pump, Pashchimpuri Road Bodla, Agra, Agra;Hotel
+hotels;88189;OYO 671 Grand Summer Palace Resort;27.6303395603582;85.4992596432567;;OYO Rooms;;NP_BKT018;Janajyoti Secondary School, Janagal, Bhaktapur;Hotel
+hotels;88190;SPOT ON 65073 Hotel Ganesh Krupa;19.257247873897644;73.22607703506947;;SPOT ON;;MUM1587;MH MSH 2, Rayate, Maharashtra 421401, India, Mumbai;Hotel
+point_of_interests;ChIJqZQg4L5G0i0R5l1LCcy5RSU;Beachwalk Shopping Centre;-8.7167326;115.1694759;0.39917631006915893;[];[];;;
+point_of_interests;AW0o3F5A4gDBgXG7MvgR;Halte Bus Terminal Kuta;-8.7128482;115.1808129;0.9782921493737581;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJH_7AkZ5H0i0R7y-8Sd26N6c;Discovery Kartika Plaza Heliport;-8.7283515;115.1664068;1.6937080811298102;['Transportation'];['transport_air'];;;
+point_of_interests;ChIJM8AfG7JG0i0ReQcuNYYHXhY;Mal Bali Galeria;-8.7232069;115.1845649;1.7072773483550951;[];[];;;
+point_of_interests;ChIJJQRRy61H0i0RmaJdm4RlPpY;Trans Studio Mall Bali;-8.7025778;115.1846699;1.8960782455745688;[];[];;;
+point_of_interests;ChIJSUeF0JhH0i0R9FzVcI5-Fac;Al Jazeerah Signature Bali Restaurant and Lounge;-8.6926338;115.1742066;2.406068322912425;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJ1aMTNwNE0i0Rjdw47UIE_rM;Bali Airport Transfers;-8.740826;115.1787019;3.0545992972811016;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJ11GmCI9F0i0RYeR8tkz9G6g;Apron D Bandara I Gusti Ngurah Rai;-8.745290899999999;115.1599534;3.7063247146856337;['Transportation'];['transport_air'];;;
+point_of_interests;ChIJxZIeShBH0i0R6Zl5LzayYNk;Seminyak Square;-8.6835934;115.1565115;3.8022823398147656;[];[];;;
+point_of_interests;AW0ouVsXGDkfto-PXAy5;Jalan Imam Bonjol, Pemecutan Klod, Kecamatan Denpasar Barat, Kota Denpasar;-8.686447399999999;115.1933747;3.8744314155199917;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJ53nIsRVE0i0RA4C0aFzLQ8g;General Aviation Terminal (GAT) Bandara I Gusti Ngurah Rai Bali;-8.751386199999999;115.1671447;4.173459055444984;['Transportation'];['transport_air'];;;
+point_of_interests;AW0ou8slZEA9YA7Qh9b2;Kota Denpasar;-8.6702242;115.1912569;5.324057144313789;['Restaurants'];['restaurant'];;;
+point_of_interests;ChIJ6S43hCs60i0R6SEiEW3k3ds;Ibis Styles Bali Denpasar;-8.6791985;115.2054787;5.352316677917273;['Restaurants'];['restaurant'];;;
+point_of_interests;ChIJFais6HlH0i0RplB78qxE76c;Canggu Plaza;-8.6643399;115.1464734;6.210709543195531;['Restaurants'];['restaurant'];;;
+point_of_interests;ChIJBzseOpVA0i0RZ0zflxpc8Ho;Level 21 Mall Denpasar;-8.669802299999999;115.2143811;6.78381715480488;[];[];;;
+hotels;88191;OYO 2184 Nan Berlian Inn;-8.714163075895913;115.17201209440827;;OYO Hotels;;ID_BLI101;Jalan Benesari, Bali;Hotel
+point_of_interests;ChIJAfVb8BzCzS0Rj7j2Z0UIv2o;La Chill Bar & Restaurant - Senggigi;-8.506492900000001;116.0556667;1.2010640441677152;['Restaurants'];['restaurant'];;;
+point_of_interests;ChIJi52JBqvDzS0RliveBh0SJCs;Senggigi Square;-8.4889122;116.0418902;1.2754248293284562;['Restaurants'];['restaurant'];;;
+point_of_interests;AW0otdabGDkfto-PW-UL;Batu Layar, Kabupaten Lombok Barat, Nusa Tenggara Barat;-8.530908699999998;116.0696629;4.318330605529438;['Restaurants'];['restaurant'];;;
+point_of_interests;AW0ovX0_TPUGSNGM3eKa;Meninting, Kabupaten Lombok Barat, Nusa Tenggara Barat;-8.540572199999998;116.0717194;5.367920975997508;['Restaurants'];['restaurant'];;;
+point_of_interests;AW0ouctcZEA9YA7Qh8Jt;Jalan Saleh Sungkar, Ampenan Utara, Kecamatan Ampenan, Kota Mataram, Nusa Tenggara Barat;-8.555321;116.074954;7.002796251704279;['Restaurants'];['restaurant'];;;
+point_of_interests;AW0oucXSGDkfto-PXBEp;Jalan Raya Tanjung, Gunung Sari, Gunung Sari, Kabupaten Lombok Barat, Nusa Tenggara Barat;-8.5449539;116.106969;8.229569345011006;['Restaurants'];['restaurant'];;;
+point_of_interests;AW0ouUjKGDkfto-PXAwq;Jalan Dakota, Rembiga, Kecamatan Selaparang, Kota Mataram, Nusa Tenggara Barat;-8.560612799999998;116.1075959;9.48483484618412;['Restaurants'];['restaurant'];;;
+hotels;88192;SPOT ON 2185 Hotel Elen;-8.497619;116.04944;;SPOT ON;;ID_WLK007;Gang Arjuna I, Lombok;Hotel
+point_of_interests;google_record_ChIJVeKcHJ9RUjoRFNRNWQ737S4;The Country Club Jade Beach Resort;12.7364686;80.23744639999995;3.055348607380845;['Restaurants'];;;;
+point_of_interests;gr_ChIJK-a5kT1YVToRZo23KewlJAg;Shelter Beach Resorts;12.7465986;80.23956989999999;4.114439778695418;['Restaurants'];;;;
+point_of_interests;gr_ChIJR67Oqm1TUjoRJUw34JsEHwg;Tun L hotel house boat Resorts-Restaurant-Hotel-Mamallapuram;12.6606596;80.2087129;6.155548604643799;['Restaurants'];;;;
+point_of_interests;gr_ChIJEc5mOuZQUjoROLjEdOnd1wE;Pandian Hotel;12.7725184;80.21357549999999;6.442453309625255;['Restaurants'];;;;
+point_of_interests;google_record_ChIJcXEW9WtTUjoR4D6dvddLAzQ;Mamallapuram;12.6424775;80.20222639999997;8.281773326571898;['Restaurants'];;;;
+point_of_interests;gr_ChIJbe4U8mlQUjoR-m_NQBXD1hY;Lee Crysstal - Boutique Hotel;12.7865568;80.2482126;8.534494090776512;['Restaurants'];;;;
+point_of_interests;google_record_ChIJqcFLo4RQUjoREx4sBA_ASOw;Padur;12.800811;80.22209450000003;9.553759658815444;['Restaurants'];;;;
+point_of_interests;gr_ChIJV8j8Pv1QUjoRUEldW7V1wTE;ECR Dhaba Restaurant;12.798939;80.24215;9.647461415451282;['Restaurants'];;;;
+hotels;88193;OYO 65074 JV HOMES;12.714917;80.219972;;OYO Rooms;;MBP028;Vadanemmeli, Mahabalipuram;Hotel
+point_of_interests;google_record_ChIJhV_dCoDQxTsR7D--vxyCjBk;Solapur;17.6766113;75.89853719999996;0.5322114037190889;[];[];;;
+point_of_interests;google_record_ChIJgUlJUJvQxTsRxc9X7dtpT0U;Solapur Railway Station;17.6644233;75.89297020000004;1.899172000019111;['Transportation'];['transport_rail'];;;
+point_of_interests;1277608;Bāle;17.6764;75.84622;5.385311777205549;['Transportation'];['transport_rail'];;;
+point_of_interests;372421803;Sholapur Airport;17.63016;75.931782;6.769190264569716;['Transportation'];['transport_air'];;;
+point_of_interests;1254525;Tikekarwadi;17.61566;75.93372;8.261617196192027;['Transportation'];['transport_rail'];;;
+hotels;88194;SPOT ON Nivant Lodge;17.6811062;75.8968112;;SPOT ON;;SLP040;54 Dhramshi Line Murari Peth Near Bus Stand Opp Agis Auto Gas Pump Solapur, Solapur;Hotel
+point_of_interests;google_record_ChIJHWqZtLkHqTsRGSAFw8yPChI;Tiruppur;11.111073;77.33871449999992;0.975083736791751;['Restaurants'];['restaurant'];;;
+point_of_interests;gr_ChIJ44n8oQIHqTsRGvf0EgluC7g;Balamurugan Nagar Bus Station;11.117538;77.32237300000001;1.2465307838764184;['Transportation'];['transport_bus'];;;
+point_of_interests;1771116262;New Bus Stand;11.132022;77.341438;1.7330502011954025;['Transportation'];['transport_bus'];;;
+point_of_interests;1776978290;Old Bus Stand;11.098368;77.348282;2.730904717592228;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJlcU4OXMHqTsREzUhVBvI8AQ;Private Abandoned Heliport;11.0948976;77.3247248;2.7907350345118407;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJ19UwJjMHqTsR4AQZc80bQsY;Sulthan Pettai Bus Stop;11.1022969;77.2873183;5.37403460529409;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJa-_DfkwHqTsRffEbtH2YALY;Seeranga Kovdam Palayam Bus Station;11.0884915;77.2896485;5.84930121621387;['Transportation'];['transport_bus'];;;
+point_of_interests;1265724;Kūlipālaiyam;11.1432;77.39096;6.823381740449242;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJWZzDAiEBqTsROatPCdkXCZw;Vanjipalaiyam;11.1181646;77.2662517;7.366373667954026;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJp1-our8FqTsR9QvJeEYwZwQ;Helipad;11.1878406;77.35329829999999;8.01277610336864;['Transportation'];['transport_air'];;;
+point_of_interests;gr_ChIJ17ASjfcIqTsROce8xaFqfbk;Lower SIDCO Bus Stop;11.1231739;77.4121972;8.574039683811293;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJ57XcRmeoqTsRLU0n87F5WfQ;Allalapuram Bus Stop;11.0370892;77.3566298;9.376605326245592;['Transportation'];['transport_bus'];;;
+hotels;88195;Collection O 50305 Flotus;11.1183749;77.3337658;;Collection O;;TPR015;First Floor, Avinashi Road Park Avenue, Kumar Nagar Near Tony, Tiruppur;Hotel
+hotels;88196;Capital O Hotel La Casa De Sofia;17.0673832364767;-96.6913691908121;;Capital O;;MX_OXA009;Siracuza 207, Cabecera Municipal Sta Lucia del Camino, Santa Lucía del Camino, Santa Cruz Amilpas;Hotel
+point_of_interests;google_record_ChIJlXyacNpwdzkR3uxUWz2sLMc;Road Number 9;25.4450996;78.55409899999995;3.4577909558050606;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJA-xQaER3dzkRA7_ELV3MaXE;Railway Level Crossing;25.42097759999999;78.58193349999999;3.767738581393904;['Transportation'];['transport_rail'];;;
+point_of_interests;gr_ChIJF63mS013dzkRDnJldjEN08w;Hansari Bus Depot;25.4170926;78.56644;4.645718108570357;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJLQHvs5V3dzkRr4tsxBfoDTk;Bhagwantpura Border Terminal Bus Stop;25.4300664;78.6303547;5.143422544090082;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJNQScVQd6dzkRFP7qSoh6LlE;Hasari Power Station Bus Stop;25.40376019999999;78.56020889999999;6.252845291955822;['Transportation'];['transport_bus'];;;
+point_of_interests;gr_ChIJQb7dsf53dzkR2H18vdtuDXs;Orchha Helipad;25.4160524;78.6516702;7.786801022306707;['Transportation'];['transport_air'];;;
+point_of_interests;1261032;Orchha;25.40125;78.64567;8.364818427191004;['Transportation'];['transport_rail'];;;
+hotels;88197;OYO 65076 Hotel Baghban;25.454563;78.586904;;OYO Rooms;;JNS038;Mahakali Vidyapeeth Road Near Petrol pump jhansi, Jhansi;Hotel
+point_of_interests;ChIJywtgzr-YyzsRKp4mLkaSPVA;Akshara Grand;17.3590224;78.54425309999999;1.7914070434016707;['Restaurants'];;;;
+point_of_interests;google_record_ChIJrc7u1haZyzsRwv9uO9FmLxI;Hotel Grand Swagathd;17.3993499;78.53802989999997;3.070007623571233;['Restaurants'];;;;
+point_of_interests;google_record_ChIJxSFloaqYyzsRi-UdI1_Ki7w;nova pride hotel;17.339704;78.56489299999998;4.14996895699881;['Restaurants'];;;;
+point_of_interests;google_record_ChIJ6duy0meZyzsRYQ-aKQ8aQro;Habsiguda Metro Station;17.4201809;78.54053420000002;5.210497068447781;['Transportation'];;;;
+point_of_interests;google_record_ChIJ1-n2AciZyzsRzU_VcuO_ufc;Kachiguda Railway Station;17.3906471;78.50090929999999;5.515720124053375;['Transportation'];;;;
+point_of_interests;google_record_ChIJ_7PJU-yeyzsRb-oFw9geu1g;Hotel Tulips Grand;17.4080826;78.59701749999999;6.257368351763857;['Restaurants'];;;;
+point_of_interests;google_record_ChIJ_VVbjOqZyzsRY6rUgaAT7XM;Majestic International;17.4063404;78.49546239999995;6.797143408682102;['Restaurants'];;;;
+point_of_interests;oyo-locality-18303695;Secunderabad  Railway Station;17.4338852;78.4993492;8.53688829524549;['Transportation'];;;;
+point_of_interests;google_record_ChIJLXvKzmSXyzsRuN55mRxOI-g;Nampally Railway Station;17.3931097;78.46756289999996;8.9914524427096;['Transportation'];;;;
+hotels;88198;OYO Home 65077 Thatipally Mansion;17.37419;78.549943;;Home;;HYD1241;New Nagol, Kothapet Rd, Mohan Nagar, Kothapet., Hyderabad;OYO Home
+hotels;88199;OYO 65078 Alegria Holidays;13.02944275183795;80.24542305618525;;Mid Range;;CHN1246;116, Pasumpon Muthuramalinga Thevar Rd, Nandanam Extension, Nandanam, Chennai, Tamil Nadu 600035, India, Chennai;Hotel
