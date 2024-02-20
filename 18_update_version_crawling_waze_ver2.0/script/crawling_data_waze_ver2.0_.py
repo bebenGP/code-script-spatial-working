@@ -18,7 +18,7 @@ def crawling_data(keyword_data, min_y_data, min_x_data, max_y_data, max_x_data) 
     response = http.request('GET', url)
     data = response.data.decode('ascii', 'ignore')
     
-    time.sleep(2)
+    time.sleep(3)
     
     try:
         json_data = json.loads(data)
@@ -37,6 +37,7 @@ with open(output_file, mode='w', newline='', encoding='utf-8') as csv_file:
     writer.writeheader()
     try :
         for _, row in df.iterrows():
+            print(f'Data yang telah di scrape di row GRID : {row['grid_id']}, object_id : {row['object_id']}')
             try :
                 data = crawling_data(keyword_data=row['keyword'], min_y_data=row['min_y'], min_x_data=row['min_x'], max_y_data=row['max_y'], max_x_data=row['max_x'])
                 for item in data:
