@@ -36,10 +36,11 @@ with open(output_file, mode='w', newline='', encoding='utf-8') as csv_file:
     # Write header
     writer.writeheader()
     try :
-        for _, row in df.iterrows():
-            print(f'Data yang telah di scrape di row GRID : {row['grid_id']}, object_id : {row['object_id']}')
+        for idx, row in df.iterrows():
             try :
                 data = crawling_data(keyword_data=row['keyword'], min_y_data=row['min_y'], min_x_data=row['min_x'], max_y_data=row['max_y'], max_x_data=row['max_x'])
+                print(f'Data yang telah di scrape di row : {idx}'.strip())
+                print(f'{row}')
                 for item in data:
                     lat = item['latLng']['lat']
                     lng = item['latLng']['lng']
