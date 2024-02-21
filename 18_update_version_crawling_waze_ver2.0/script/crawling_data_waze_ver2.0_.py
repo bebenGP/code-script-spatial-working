@@ -6,8 +6,8 @@ import os
 import traceback
 import time
 
-input_file = r'D:\SCRIPT - ARCPY - PYTHON\script-python-working-in-esri\18_update_version_crawling_waze_ver2.0\input\keyword_req_data_bulutangkis_testing1.csv'
-output_file = r'D:\telkomsel-poi\output\get_data_waze2.0_bulutangkis_indonesia_testing1.csv'
+input_file = r'C:\Users\bputra\OneDrive - ESRI Indonesia\PT ESRI Indonesia\Research\code-script\18_update_version_crawling_waze_ver2.0\input\keyword_req_data_giftshop_testing1.csv'
+output_file = r'C:\Users\bputra\OneDrive - ESRI Indonesia\PT ESRI Indonesia\Project\P9 (Telkomsel - POI)\output\waze\gift shop\get_data_waze2.0_giftshop_indonesia_testing1.csv'
 
 df = pd.read_csv(input_file, delimiter=';')
 
