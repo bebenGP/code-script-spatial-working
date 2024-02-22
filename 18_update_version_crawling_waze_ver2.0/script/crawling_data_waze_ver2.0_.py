@@ -7,7 +7,7 @@ import traceback
 import time
 
 input_file = r'C:\Users\bputra\OneDrive - ESRI Indonesia\PT ESRI Indonesia\Research\code-script\18_update_version_crawling_waze_ver2.0\input\keyword_req_data_giftshop_testing1.csv'
-output_file = r'C:\Users\bputra\OneDrive - ESRI Indonesia\PT ESRI Indonesia\Project\P9 (Telkomsel - POI)\output\waze\gift shop\get_data_waze2.0_giftshop_indonesia_testing1.csv'
+output_file = r'C:\Users\bputra\OneDrive - ESRI Indonesia\PT ESRI Indonesia\Project\P9 (Telkomsel - POI)\output\waze\gift shop\get_data_waze2.0_giftshop_indonesia_testing2.csv'
 
 df = pd.read_csv(input_file, delimiter=';')
 
@@ -18,7 +18,7 @@ def crawling_data(keyword_data, min_y_data, min_x_data, max_y_data, max_x_data) 
     response = http.request('GET', url)
     data = response.data.decode('ascii', 'ignore')
     
-    time.sleep(3)
+    time.sleep(4)
     
     try:
         json_data = json.loads(data)
