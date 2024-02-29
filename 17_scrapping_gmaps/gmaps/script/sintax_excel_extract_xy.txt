@@ -1,0 +1,5 @@
+Latitude :
+=TRIM(MID(SUBSTITUTE(MID(A2;FIND("!3d";A2)+3;255);"!4d";REPT(" ";255));1;255))
+
+Longitude :
+=TRIM(MID(SUBSTITUTE(MID(A2;FIND("!4d";A2)+3;255);"!16s";REPT(" ";255));1;255))
