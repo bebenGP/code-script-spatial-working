@@ -67,6 +67,7 @@ def url_hit(data_latitude, data_longitude) :
                                         poinames_value = poi.text.strip() 
                                         data.append({'Name': poinames_value})
                                         print(poinames_value)
+                                        
                                     ratings = cari.find_all('span', class_='MW4etd')
                                     for rating in ratings:
                                         ratings_value = rating.text.strip()
